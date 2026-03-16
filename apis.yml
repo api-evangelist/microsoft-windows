@@ -1,9 +1,11 @@
+aid: microsoft-windows
 name: Microsoft Windows APIs
 description: A collection of APIs and developer resources for Microsoft Windows operating system
 image: https://www.microsoft.com/windows/windows-11-logo.png
 url: https://developer.microsoft.com/windows
 created: '2024'
-modified: '2024'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis:
 - name: Windows Runtime (WinRT) API
   description: Modern API for building Windows applications with support for multiple programming languages
@@ -128,9 +130,8 @@ apis:
   - type: Code Samples
     url: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/adaptive-interactive-toasts
 maintainers:
-- name: Microsoft
-  email: support@microsoft.com
-  url: https://www.microsoft.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
 common:
 - type: Portal
   url: https://developer.microsoft.com/windows
