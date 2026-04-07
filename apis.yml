@@ -16,10 +16,10 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/uwp/
     baseUrl: https://api.windows.com
     tags:
-      - Windows
-      - UWP
-      - WinRT
       - Applications
+      - UWP
+      - Windows
+      - WinRT
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/uwp/api/
@@ -35,10 +35,10 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/win32/
     baseUrl: https://api.windows.com/win32
     tags:
-      - Windows
-      - Win32
-      - Native
       - C++
+      - Native
+      - Win32
+      - Windows
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/win32/apiindex/windows-api-list
@@ -52,26 +52,25 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/win32/wmisdk/
     baseUrl: https://api.windows.com/wmi
     tags:
-      - Windows
       - Management
-      - WMI
       - System Administration
+      - Windows
+      - WMI
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/win32/wmisdk/wmi-reference
       - type: PowerShell Integration
-        url: 
-          https://docs.microsoft.com/powershell/module/microsoft.powershell.management/
+        url: https://docs.microsoft.com/powershell/module/microsoft.powershell.management/
   - name: Windows PowerShell API
     description: >-
       Task automation and configuration management framework from Microsoft.
     humanUrl: https://docs.microsoft.com/powershell/
     baseUrl: https://api.windows.com/powershell
     tags:
-      - Windows
-      - PowerShell
       - Automation
+      - PowerShell
       - Scripting
+      - Windows
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/powershell/scripting/overview
@@ -85,10 +84,10 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/win32/sysinfo/registry
     baseUrl: https://api.windows.com/registry
     tags:
-      - Windows
-      - Registry
       - Configuration
+      - Registry
       - System
+      - Windows
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/win32/sysinfo/registry-functions
@@ -100,26 +99,25 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/win32/shell/
     baseUrl: https://api.windows.com/shell
     tags:
-      - Windows
+      - Explorer
       - Shell
       - UI
-      - Explorer
+      - Windows
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/win32/shell/shell-reference
       - type: Samples
-        url: 
-          https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Win7Samples/winui/shell
+        url: https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Win7Samples/winui/shell
   - name: DirectX Graphics API
     description: >-
       Collection of APIs for handling tasks related to multimedia and game programming.
     humanUrl: https://docs.microsoft.com/windows/win32/directx
     baseUrl: https://api.windows.com/directx
     tags:
-      - Windows
       - DirectX
-      - Graphics
       - Gaming
+      - Graphics
+      - Windows
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/win32/directx
@@ -130,21 +128,18 @@ apis:
   - name: Windows Notification API
     description: >-
       API for creating and managing Windows notifications and toast messages.
-    humanUrl: 
-      https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/
+    humanUrl: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/
     baseUrl: https://api.windows.com/notifications
     tags:
-      - Windows
       - Notifications
       - Toast
       - User Interface
+      - Windows
     properties:
       - type: Documentation
-        url: 
-          https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview
+        url: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview
       - type: Code Samples
-        url: 
-          https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/adaptive-interactive-toasts
+        url: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/adaptive-interactive-toasts
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
@@ -164,9 +159,8 @@ common:
   - type: SDK Downloads
     url: https://developer.microsoft.com/windows/downloads/
 tags:
-  - Windows
-  - Operating System
-  - Microsoft
   - Desktop
-  - API
   - Development
+  - Microsoft
+  - Operating System
+  - Windows
