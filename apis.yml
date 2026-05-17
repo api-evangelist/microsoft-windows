@@ -25,7 +25,7 @@ apis:
         url: https://docs.microsoft.com/windows/uwp/api/
       - type: OpenAPI
         url: https://api.windows.com/openapi.json
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.microsoft.com/windows/uwp/get-started/
   - name: Win32 API
     description: >-
@@ -76,7 +76,7 @@ apis:
         url: https://docs.microsoft.com/powershell/scripting/overview
       - type: Module Reference
         url: https://docs.microsoft.com/powershell/module/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/PowerShell/PowerShell
   - name: Windows Registry API
     description: >-
@@ -150,11 +150,11 @@ common:
     url: https://blogs.windows.com/windowsdeveloper/
   - type: Support
     url: https://support.microsoft.com/windows
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/microsoft
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.microsoft.com/legal/terms-of-use
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://privacy.microsoft.com/
   - type: SDK Downloads
     url: https://developer.microsoft.com/windows/downloads/
