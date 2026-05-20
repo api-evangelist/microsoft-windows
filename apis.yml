@@ -144,6 +144,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/microsoft-windows
   - type: Portal
     url: https://developer.microsoft.com/windows
   - type: Blog
