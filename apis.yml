@@ -144,6 +144,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: VulnerabilityDisclosure
+    url: security/microsoft-windows-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/microsoft-windows-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/showcase/microsoft-windows
   - type: Portal
