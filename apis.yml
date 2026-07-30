@@ -2,6 +2,18 @@ aid: microsoft-windows
 name: Microsoft Windows
 description: >-
   A collection of APIs and developer resources for Microsoft Windows operating system.
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 image: https://www.microsoft.com/windows/windows-11-logo.png
 url: https://developer.microsoft.com/windows
 created: '2024'
