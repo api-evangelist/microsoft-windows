@@ -156,6 +156,19 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: IssueTracker
+    url: https://github.com/PowerShell/PowerShell/issues
+  - type: Releases
+    url: https://github.com/PowerShell/PowerShell/releases
+  - type: SecurityPolicy
+    url: https://github.com/PowerShell/PowerShell/blob/master/.github/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/PowerShell/PowerShell/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/PowerShell/PowerShell/blob/master/.github/CONTRIBUTING.md
+  - type: License
+    name: MIT
+    url: https://github.com/PowerShell/PowerShell/blob/master/LICENSE
   - type: VulnerabilityDisclosure
     url: security/microsoft-windows-vulnerability-disclosure.yml
   - type: DomainSecurity
