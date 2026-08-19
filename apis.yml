@@ -18,7 +18,7 @@ image: https://www.microsoft.com/windows/windows-11-logo.png
 url: https://developer.microsoft.com/windows
 created: '2024'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - name: Windows Runtime (WinRT) API
     description: >-
@@ -56,7 +56,7 @@ apis:
         url: https://docs.microsoft.com/windows/win32/apiindex/windows-api-list
       - type: Reference
         url: https://docs.microsoft.com/windows/win32/api/
-      - type: Code Samples
+      - type: CodeExamples
         url: https://github.com/microsoft/Windows-classic-samples
   - name: Windows Management Instrumentation (WMI)
     description: >-
@@ -150,7 +150,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview
-      - type: Code Samples
+      - type: CodeExamples
         url: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/adaptive-interactive-toasts
 maintainers:
   - FN: Kin Lane
