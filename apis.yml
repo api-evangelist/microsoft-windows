@@ -28,6 +28,11 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/uwp/
     baseUrl: https://api.windows.com
     tags:
+      - Application
+      - UWP
+      - Windows
+      - WinRT
+    tags_raw:
       - Applications
       - UWP
       - Windows
@@ -143,6 +148,11 @@ apis:
     humanUrl: https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/
     baseUrl: https://api.windows.com/notifications
     tags:
+      - Notification
+      - Toast
+      - User Interface
+      - Windows
+    tags_raw:
       - Notifications
       - Toast
       - User Interface
