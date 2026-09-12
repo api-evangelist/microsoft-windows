@@ -179,6 +179,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: Website
+    url: https://www.microsoft.com/
   - type: IssueTracker
     url: https://github.com/PowerShell/PowerShell/issues
   - type: Releases
@@ -218,3 +220,5 @@ tags:
   - Microsoft
   - Operating System
   - Windows
+x-parent: microsoft
+x-relationship: product
