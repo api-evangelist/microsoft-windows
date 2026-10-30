@@ -1,4 +1,4 @@
-# Microsoft Windows (microsoft-windows)
+# Microsoft Windows
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,147 +66,112 @@
 
 A collection of APIs and developer resources for Microsoft Windows operating system.
 
-**URL:** [Visit APIs.json URL](https://developer.microsoft.com/windows)
+**Areas:** Desktop · Development · Microsoft · Operating System · Windows
 
-## Tags:
+## Microsoft Windows on APIs.io
 
- - Desktop, Development, Microsoft, Operating System, Windows
+Everything profiled for Microsoft Windows is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/microsoft-windows/](https://apis.io/providers/microsoft-windows/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### APIs (8)
 
-- **Created:** 2024
-- **Modified:** 2026-04-28
+- [Windows Runtime (WinRT) API](https://apis.io/apis/microsoft-windows/windows-runtime-winrt-api/) — Modern API for building Windows applications with support for multiple programming languages.
+- [Win32 API](https://apis.io/apis/microsoft-windows/win32-api/) — Traditional Windows API for native application development with full system access.
+- [Windows Management Instrumentation (WMI)](https://apis.io/apis/microsoft-windows/windows-management-instrumentation-wmi/) — Infrastructure for management data and operations on Windows systems.
+- [Windows PowerShell API](https://apis.io/apis/microsoft-windows/windows-powershell-api/) — Task automation and configuration management framework from Microsoft.
+- [Windows Registry API](https://apis.io/apis/microsoft-windows/windows-registry-api/) — API for accessing and manipulating the Windows Registry database.
+- [Windows Shell API](https://apis.io/apis/microsoft-windows/windows-shell-api/) — APIs for interacting with Windows Shell features and user interface elements.
+- [DirectX Graphics API](https://apis.io/apis/microsoft-windows/directx-graphics-api/) — Collection of APIs for handling tasks related to multimedia and game programming.
+- [Windows Notification API](https://apis.io/apis/microsoft-windows/windows-notification-api/) — API for creating and managing Windows notifications and toast messages.
 
-## APIs
+### Published properties
 
-### Windows Runtime (WinRT) API
-Modern API for building Windows applications with support for multiple programming languages.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-**Human URL:** [https://docs.microsoft.com/windows/uwp/](https://docs.microsoft.com/windows/uwp/)
+#### Security (2)
 
-#### Tags:
+Authentication, trust centre, and vulnerability disclosure.
 
- - Applications, UWP, Windows, WinRT
+- [Microsoft Windows Domain Security](https://apis.io/security/microsoft-windows/microsoft-windows-domain-security/)
+- [Microsoft Windows Vulnerability Disclosure](https://apis.io/security/microsoft-windows/microsoft-windows-vulnerability-disclosure/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://docs.microsoft.com/windows/uwp/api/)
-- [OpenAPI](https://api.windows.com/openapi.json)
-- [Getting Started](https://docs.microsoft.com/windows/uwp/get-started/)
+Published plans, tiers and prices.
 
-### Win32 API
-Traditional Windows API for native application development with full system access.
+- [Microsoft Windows Plans Pricing](https://apis.io/plans/microsoft-windows/microsoft-windows-plans-pricing/)
 
-**Human URL:** [https://docs.microsoft.com/windows/win32/](https://docs.microsoft.com/windows/win32/)
+#### Rate limits (1)
 
-#### Tags:
+Published request limits.
 
- - C++, Native, Win32, Windows
+- [Microsoft Windows Rate Limits](https://apis.io/rate-limits/microsoft-windows/microsoft-windows-rate-limits/)
 
-#### Properties
+#### FinOps (1)
 
-- [Documentation](https://docs.microsoft.com/windows/win32/apiindex/windows-api-list)
-- [Reference](https://docs.microsoft.com/windows/win32/api/)
-- [Code Samples](https://github.com/microsoft/Windows-classic-samples)
+What the API costs to run, by operation.
 
-### Windows Management Instrumentation (WMI)
-Infrastructure for management data and operations on Windows systems.
+- [Microsoft Windows Finops](https://apis.io/finops/microsoft-windows/microsoft-windows-finops/)
 
-**Human URL:** [https://docs.microsoft.com/windows/win32/wmisdk/](https://docs.microsoft.com/windows/win32/wmisdk/)
+## Where to find this API
 
-#### Tags:
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
- - Management, System Administration, Windows, WMI
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/windows/win32/wmisdk/wmi-reference)
-- [PowerShell Integration](https://docs.microsoft.com/powershell/module/microsoft.powershell.management/)
-
-### Windows PowerShell API
-Task automation and configuration management framework from Microsoft.
-
-**Human URL:** [https://docs.microsoft.com/powershell/](https://docs.microsoft.com/powershell/)
-
-#### Tags:
-
- - Automation, PowerShell, Scripting, Windows
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/powershell/scripting/overview)
-- [Module Reference](https://docs.microsoft.com/powershell/module/)
-- [GitHub Repository](https://github.com/PowerShell/PowerShell)
-
-### Windows Registry API
-API for accessing and manipulating the Windows Registry database.
-
-**Human URL:** [https://docs.microsoft.com/windows/win32/sysinfo/registry](https://docs.microsoft.com/windows/win32/sysinfo/registry)
-
-#### Tags:
-
- - Configuration, Registry, System, Windows
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/windows/win32/sysinfo/registry-functions)
-- [Reference](https://docs.microsoft.com/windows/win32/sysinfo/registry-reference)
-
-### Windows Shell API
-APIs for interacting with Windows Shell features and user interface elements.
-
-**Human URL:** [https://docs.microsoft.com/windows/win32/shell/](https://docs.microsoft.com/windows/win32/shell/)
-
-#### Tags:
-
- - Explorer, Shell, UI, Windows
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/windows/win32/shell/shell-reference)
-- [Samples](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/Win7Samples/winui/shell)
-
-### DirectX Graphics API
-Collection of APIs for handling tasks related to multimedia and game programming.
-
-**Human URL:** [https://docs.microsoft.com/windows/win32/directx](https://docs.microsoft.com/windows/win32/directx)
-
-#### Tags:
-
- - DirectX, Gaming, Graphics, Windows
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/windows/win32/directx)
-- [Direct3D Reference](https://docs.microsoft.com/windows/win32/direct3d12/)
-- [Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
-
-### Windows Notification API
-API for creating and managing Windows notifications and toast messages.
-
-**Human URL:** [https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/)
-
-#### Tags:
-
- - Notifications, Toast, User Interface, Windows
-
-#### Properties
-
-- [Documentation](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/windows-push-notification-services--wns--overview)
-- [Code Samples](https://docs.microsoft.com/windows/apps/design/shell/tiles-and-notifications/adaptive-interactive-toasts)
-
-## Common Properties
-
-- [Portal](https://developer.microsoft.com/windows)
-- [Blog](https://blogs.windows.com/windowsdeveloper/)
+- [Website](https://www.microsoft.com/)
 - [Support](https://support.microsoft.com/windows)
-- [GitHub Organization](https://github.com/microsoft)
-- [Terms of Service](https://www.microsoft.com/legal/terms-of-use)
-- [Privacy Policy](https://privacy.microsoft.com/)
-- [SDK Downloads](https://developer.microsoft.com/windows/downloads/)
+- [Blog](https://blogs.windows.com/windowsdeveloper/)
+- [Terms of service](https://www.microsoft.com/legal/terms-of-use)
+- [Privacy policy](https://privacy.microsoft.com/)
+- [GitHub](https://github.com/microsoft)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 36.3** — thin · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 51.8 |
+| Contract quality | 30.5 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 28.9 |
+
+**Agent readiness 14.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | documented (partial credit) |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/microsoft-windows/](https://apis.io/providers/microsoft-windows/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Microsoft Windows: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/microsoft-windows/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
